@@ -6,7 +6,6 @@ export class index extends Component {
   render() {
     return (
       <div className='bg-[##e5e6ed]'>
-        <Navbar/>
         <Hero/>
       </div>
     )
